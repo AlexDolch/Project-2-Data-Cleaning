@@ -1,6 +1,6 @@
-# Project-2-Data-Science-Bootcamp-
 
 ## Second project of the Data Science Bootcamp @WBS Coding School
+### Data Cleaning and Visualization
 
 ---
 
