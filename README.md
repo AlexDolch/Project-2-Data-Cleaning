@@ -14,3 +14,5 @@ Firsly struggling with the deadline, we finally presented our stuff in a short p
 I was kind of proud to automate some things like .info(), .describe() .sample() in a function i called "overview", 
 which felt cool to maybe easier handle/investigate future upcoming dataframes. 
 Really astonishing what can be done with matplotlib/seaborn and also what feedback i got for my coding so far.
+
+---
