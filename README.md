@@ -15,6 +15,6 @@ I was kind of proud to automate some things like .info(), .describe() .sample() 
 which felt cool to maybe easier handle/investigate future upcoming dataframes. 
 Really astonishing what can be done with matplotlib/seaborn and also what feedback i got for my coding so far. To refine it, 
 i should clean the DataFrames in seperate notebooks, could increase readability. So far the visualization is really basic,
-when i have time to polish i really will do so.
+when i have time to polish i will do so.
 
 ---
